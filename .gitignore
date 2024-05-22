@@ -1,0 +1,7 @@
+.idea
+.vscode
+clickhouse_data
+clickhouse_logs
+logs
+plugins
+__pycache__
